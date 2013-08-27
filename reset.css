@@ -2,9 +2,10 @@
   margin: 0;
   padding: 0;
   border: 0;
+  box-sizing: border-box;
 }
 
 body {
   font-family: 'arial', sans-serif;
-  font-size:13px;
+  font-size: 13px;
 }
