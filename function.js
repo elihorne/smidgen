@@ -1,3 +1,3 @@
 function init() {
-  console.log('smidgen initialized.');
+  console.log('smidgen reporting.');
 }
