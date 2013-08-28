@@ -6,7 +6,7 @@ a small amount of something.
 Usage
 -----
 
-Add this to your .profile, .bashrc, ._whatever_
+Add this to your .profile, .bashrc, _.whatever_
 
 ```
 smidgen(){
