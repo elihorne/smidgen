@@ -15,6 +15,9 @@ smidgen(){
 }
 ```
 
-Then "smidgen project-name"
+Then type:
+```
+smidgen [your project name]
+```
 
 Voila. Just enough to get you moving.
