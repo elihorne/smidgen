@@ -1,6 +1,6 @@
 smid·gen
 ================================
-_noun informal_
+_noun informal_  
 a small amount of something.
 
 Usage
