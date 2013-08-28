@@ -6,9 +6,10 @@ a small amount of something.
 Usage
 -----
 
-Add this to your .profile, .bashrc, .whatever
+Add this to your .profile, .bashrc, ._whatever_
 
-```smidgen(){
+```
+smidgen(){
         git clone http://github.com/elihorne/smidgen.git $1
         cd $1 && open .
 }
