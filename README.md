@@ -1,4 +1,19 @@
-smidgen
-=======
+smid·gen
+================================
+_noun informal_
+a small amount of something.
 
-Just a simple start.
+Usage
+-----
+
+Add this to your .profile, .bashrc, .whatever
+
+```smidgen(){
+        git clone http://github.com/elihorne/smidgen.git $1
+        cd $1 && open .
+}
+```
+
+Then "smidgen project-name"
+
+Voila. Just enough to get you moving.
