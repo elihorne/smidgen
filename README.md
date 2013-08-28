@@ -15,7 +15,7 @@ smidgen(){
 }
 ```
 
-Then type:
+Then navigate to your project directory and type:
 ```
 smidgen [your project name]
 ```
