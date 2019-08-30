@@ -27,3 +27,12 @@ smidgen [your project name]
 ```
 
 Voila. Just enough to get you moving.
+
+
+Bonus
+-----
+
+If you'd like to spin up a simple server, toss in this command:
+```
+python -m SimpleHTTPServer 8000
+```
